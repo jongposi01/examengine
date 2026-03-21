@@ -1,0 +1,89 @@
+{
+  "exam": "SQLD",
+  "version": 1,
+  "updatedAt": "2026-03-09",
+  "sets": [
+    {"set": 1,"year": 2026,"round": 1,"title": "기출문제 1","file": "exam_1.json","questionCount": 50}
+,{"set": 2,"year": 2026,"round": 2,"title": "기출문제 2","file": "exam_2.json","questionCount": 50}
+,{"set": 3,"year": 2026,"round": 3,"title": "기출문제 3","file": "exam_3.json","questionCount": 50}
+,{"set": 4,"year": 2026,"round": 4,"title": "기출문제 4","file": "exam_4.json","questionCount": 50}
+,{"set": 5,"year": 2026,"round": 5,"title": "기출문제 5","file": "exam_5.json","questionCount": 50}
+,{"set": 6,"year": 2026,"round": 6,"title": "기출문제 6","file": "exam_6.json","questionCount": 50}
+,{"set": 7,"year": 2026,"round": 7,"title": "기출문제 7","file": "exam_7.json","questionCount": 50}
+,{"set": 8,"year": 2026,"round": 8,"title": "기출문제 8","file": "exam_8.json","questionCount": 50}
+,{"set": 9,"year": 2026,"round": 9,"title": "기출문제 9","file": "exam_9.json","questionCount": 50}
+,{"set": 10,"year": 2026,"round": 10,"title": "기출문제 10","file": "exam_10.json","questionCount": 50}
+,{"set": 11,"year": 2026,"round": 11,"title": "기출문제 11","file": "exam_11.json","questionCount": 50}
+,{"set": 12,"year": 2026,"round": 12,"title": "기출문제 12","file": "exam_12.json","questionCount": 50}
+,{"set": 13,"year": 2026,"round": 13,"title": "기출문제 13","file": "exam_13.json","questionCount": 50}
+,{"set": 14,"year": 2026,"round": 14,"title": "기출문제 14","file": "exam_14.json","questionCount": 50}
+,{"set": 15,"year": 2026,"round": 15,"title": "기출문제 15","file": "exam_15.json","questionCount": 50}
+,{"set": 16,"year": 2026,"round": 16,"title": "기출문제 16","file": "exam_16.json","questionCount": 50}
+,{"set": 17,"year": 2026,"round": 17,"title": "기출문제 17","file": "exam_17.json","questionCount": 50}
+,{"set": 18,"year": 2026,"round": 18,"title": "기출문제 18","file": "exam_18.json","questionCount": 50}
+,{"set": 19,"year": 2026,"round": 19,"title": "기출문제 19","file": "exam_19.json","questionCount": 50}
+,{"set": 20,"year": 2026,"round": 20,"title": "기출문제 20","file": "exam_20.json","questionCount": 50}
+,{"set": 21,"year": 2026,"round": 21,"title": "기출문제 21","file": "exam_21.json","questionCount": 50}
+,{"set": 22,"year": 2026,"round": 22,"title": "기출문제 22","file": "exam_22.json","questionCount": 50}
+,{"set": 23,"year": 2026,"round": 23,"title": "기출문제 23","file": "exam_23.json","questionCount": 50}
+,{"set": 24,"year": 2026,"round": 24,"title": "기출문제 24","file": "exam_24.json","questionCount": 50}
+,{"set": 25,"year": 2026,"round": 25,"title": "기출문제 25","file": "exam_25.json","questionCount": 50}
+,{"set": 26,"year": 2026,"round": 26,"title": "기출문제 26","file": "exam_26.json","questionCount": 50}
+,{"set": 27,"year": 2026,"round": 27,"title": "기출문제 27","file": "exam_27.json","questionCount": 50}
+,{"set": 28,"year": 2026,"round": 28,"title": "기출문제 28","file": "exam_28.json","questionCount": 50}
+,{"set": 29,"year": 2026,"round": 29,"title": "기출문제 29","file": "exam_29.json","questionCount": 50}
+,{"set": 30,"year": 2026,"round": 30,"title": "기출문제 30","file": "exam_30.json","questionCount": 50}
+,{"set": 31,"year": 2026,"round": 31,"title": "기출문제 31","file": "exam_31.json","questionCount": 50}
+,{"set": 32,"year": 2026,"round": 32,"title": "기출문제 32","file": "exam_32.json","questionCount": 50}
+,{"set": 101,"year": 2026,"round": 101,"title": "SQL활용 101","file": "exam_101.json","questionCount": 50}
+,{"set": 102,"year": 2026,"round": 102,"title": "SQL활용 102","file": "exam_102.json","questionCount": 50}
+,{"set": 103,"year": 2026,"round": 103,"title": "SQL활용 103","file": "exam_103.json","questionCount": 50}
+,{"set": 104,"year": 2026,"round": 104,"title": "SQL활용 104","file": "exam_104.json","questionCount": 50}
+,{"set": 105,"year": 2026,"round": 105,"title": "SQL활용 105","file": "exam_105.json","questionCount": 50}
+,{"set": 106,"year": 2026,"round": 106,"title": "SQL활용 106","file": "exam_106.json","questionCount": 50}
+,{"set": 107,"year": 2026,"round": 107,"title": "SQL활용 107","file": "exam_107.json","questionCount": 50}
+,{"set": 108,"year": 2026,"round": 108,"title": "SQL활용 108","file": "exam_108.json","questionCount": 50}
+,{"set": 109,"year": 2026,"round": 109,"title": "SQL활용 109","file": "exam_109.json","questionCount": 50}
+,{"set": 110,"year": 2026,"round": 110,"title": "SQL활용 110","file": "exam_110.json","questionCount": 50}
+,{"set": 111,"year": 2026,"round": 111,"title": "SQL활용 111","file": "exam_111.json","questionCount": 50}
+,{"set": 112,"year": 2026,"round": 112,"title": "SQL활용 112","file": "exam_112.json","questionCount": 50}
+,{"set": 113,"year": 2026,"round": 113,"title": "SQL활용 113","file": "exam_113.json","questionCount": 50}
+,{"set": 114,"year": 2026,"round": 114,"title": "SQL활용 114","file": "exam_114.json","questionCount": 50}
+,{"set": 115,"year": 2026,"round": 115,"title": "SQL활용 115","file": "exam_115.json","questionCount": 50}
+,{"set": 116,"year": 2026,"round": 116,"title": "SQL활용 116","file": "exam_116.json","questionCount": 50}
+,{"set": 117,"year": 2026,"round": 117,"title": "SQL활용 117","file": "exam_117.json","questionCount": 50}
+,{"set": 118,"year": 2026,"round": 118,"title": "SQL활용 118","file": "exam_118.json","questionCount": 50}
+,{"set": 119,"year": 2026,"round": 119,"title": "SQL활용 119","file": "exam_119.json","questionCount": 50}
+,{"set": 120,"year": 2026,"round": 120,"title": "SQL활용 120","file": "exam_120.json","questionCount": 50}
+,{"set": 121,"year": 2026,"round": 121,"title": "SQL활용 121","file": "exam_121.json","questionCount": 50}
+,{"set": 122,"year": 2026,"round": 122,"title": "SQL활용 122","file": "exam_122.json","questionCount": 50}
+,{"set": 123,"year": 2026,"round": 123,"title": "SQL활용 123","file": "exam_123.json","questionCount": 50}
+,{"set": 124,"year": 2026,"round": 124,"title": "SQL활용 124","file": "exam_124.json","questionCount": 50}
+,{"set": 125,"year": 2026,"round": 125,"title": "SQL활용 125","file": "exam_125.json","questionCount": 50}
+,{"set": 126,"year": 2026,"round": 126,"title": "SQL활용 126","file": "exam_126.json","questionCount": 50}
+,{"set": 127,"year": 2026,"round": 127,"title": "SQL활용 127","file": "exam_127.json","questionCount": 50}
+,{"set": 128,"year": 2026,"round": 128,"title": "SQL활용 128","file": "exam_128.json","questionCount": 50}
+,{"set": 129,"year": 2026,"round": 129,"title": "SQL활용 129","file": "exam_129.json","questionCount": 50}
+,{"set": 130,"year": 2026,"round": 130,"title": "SQL활용 130","file": "exam_130.json","questionCount": 50}
+,{"set": 131,"year": 2026,"round": 131,"title": "SQL활용 131","file": "exam_131.json","questionCount": 50}
+,{"set": 132,"year": 2026,"round": 132,"title": "SQL활용 132","file": "exam_132.json","questionCount": 50}
+,{"set": 133,"year": 2026,"round": 133,"title": "SQL활용 133","file": "exam_133.json","questionCount": 50}
+,{"set": 134,"year": 2026,"round": 134,"title": "SQL활용 134","file": "exam_134.json","questionCount": 50}
+,{"set": 135,"year": 2026,"round": 135,"title": "SQL활용 135","file": "exam_135.json","questionCount": 50}
+  ,{"set": 201,"year": 2026,"round": 201,"title": "기출문제 201","file": "exam_201.json","questionCount": 50}
+  ,{"set": 202,"year": 2026,"round": 202,"title": "기출문제 202","file": "exam_202.json","questionCount": 50}
+  ,{"set": 203,"year": 2026,"round": 203,"title": "기출문제 203","file": "exam_203.json","questionCount": 50}
+  ,{"set": 204,"year": 2026,"round": 204,"title": "기출문제 204","file": "exam_204.json","questionCount": 50}
+  ,{"set": 205,"year": 2026,"round": 205,"title": "기출문제 205","file": "exam_205.json","questionCount": 50}
+  ,{"set": 206,"year": 2026,"round": 206,"title": "기출문제 206","file": "exam_206.json","questionCount": 50}
+  ,{"set": 207,"year": 2026,"round": 207,"title": "기출문제 207","file": "exam_207.json","questionCount": 50}
+  ,{"set": 208,"year": 2026,"round": 208,"title": "기출문제 208","file": "exam_208.json","questionCount": 50}
+  ,{"set": 209,"year": 2026,"round": 209,"title": "기출문제 209","file": "exam_209.json","questionCount": 50}
+  ,{"set": 210,"year": 2026,"round": 210,"title": "기출문제 210","file": "exam_210.json","questionCount": 50}
+  ,{"set": 211,"year": 2026,"round": 211,"title": "기출문제 211","file": "exam_211.json","questionCount": 50}
+  ,{"set": 212,"year": 2026,"round": 212,"title": "기출문제 212","file": "exam_212.json","questionCount": 50}
+  ,{"set": 213,"year": 2026,"round": 213,"title": "기출문제 213","file": "exam_213.json","questionCount": 50}
+  ,{"set": 214,"year": 2026,"round": 214,"title": "기출문제 214","file": "exam_214.json","questionCount": 50}
+  ,{"set": 215,"year": 2026,"round": 215,"title": "기출문제 215","file": "exam_215.json","questionCount": 50}
+  ]
+}

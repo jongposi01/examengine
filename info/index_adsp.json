@@ -1,0 +1,295 @@
+{
+  "exam": "SQLD",
+  "version": 1,
+  "updatedAt": "2026-03-09",
+  "sets": [
+    {
+      "set": 1,
+      "year": 2026,
+      "round": 1,
+      "title": "ADsP 기출 스타일 1회",
+      "file": "exam_01.json",
+      "questionCount": 50
+    },
+    {
+      "set": 2,
+      "year": 2026,
+      "round": 2,
+      "title": "ADsP 기출 스타일 2회",
+      "file": "exam_02.json",
+      "questionCount": 50
+    },
+    {
+      "set": 3,
+      "year": 2026,
+      "round": 3,
+      "title": "ADsP 기출 스타일 3회",
+      "file": "exam_03.json",
+      "questionCount": 50
+    },
+    {
+      "set": 4,
+      "year": 2026,
+      "round": 4,
+      "title": "ADsP 기출 스타일 4회",
+      "file": "exam_04.json",
+      "questionCount": 50
+    },
+    {
+      "set": 5,
+      "year": 2026,
+      "round": 5,
+      "title": "ADsP 기출 스타일 5회",
+      "file": "exam_05.json",
+      "questionCount": 50
+    },
+    {
+      "set": 6,
+      "year": 2026,
+      "round": 6,
+      "title": "ADsP 기출 스타일 6회",
+      "file": "exam_06.json",
+      "questionCount": 50
+    },
+    {
+      "set": 7,
+      "year": 2026,
+      "round": 7,
+      "title": "ADsP 기출 스타일 7회",
+      "file": "exam_07.json",
+      "questionCount": 50
+    },
+    {
+      "set": 8,
+      "year": 2026,
+      "round": 8,
+      "title": "ADsP 기출 스타일 8회",
+      "file": "exam_08.json",
+      "questionCount": 50
+    },
+    {
+      "set": 9,
+      "year": 2026,
+      "round": 9,
+      "title": "ADsP 기출 스타일 9회",
+      "file": "exam_09.json",
+      "questionCount": 50
+    },
+    {
+      "set": 10,
+      "year": 2026,
+      "round": 10,
+      "title": "ADsP 기출 스타일 10회",
+      "file": "exam_10.json",
+      "questionCount": 50
+    },
+    {
+      "set": 11,
+      "year": 2026,
+      "round": 11,
+      "title": "ADsP 기출 스타일 11회",
+      "file": "exam_11.json",
+      "questionCount": 50
+    },
+    {
+      "set": 12,
+      "year": 2026,
+      "round": 12,
+      "title": "ADsP 기출 스타일 12회",
+      "file": "exam_12.json",
+      "questionCount": 50
+    },
+    {
+      "set": 13,
+      "year": 2026,
+      "round": 13,
+      "title": "ADsP 기출 스타일 13회",
+      "file": "exam_13.json",
+      "questionCount": 50
+    },
+    {
+      "set": 14,
+      "year": 2026,
+      "round": 14,
+      "title": "ADsP 기출 스타일 14회",
+      "file": "exam_14.json",
+      "questionCount": 50
+    },
+    {
+      "set": 15,
+      "year": 2026,
+      "round": 15,
+      "title": "ADsP 기출 스타일 15회",
+      "file": "exam_15.json",
+      "questionCount": 50
+    },
+    {
+      "set": 16,
+      "year": 2026,
+      "round": 16,
+      "title": "ADsP 기출 스타일 16회",
+      "file": "exam_16.json",
+      "questionCount": 50
+    },
+    {
+      "set": 17,
+      "year": 2026,
+      "round": 17,
+      "title": "ADsP 기출 스타일 17회",
+      "file": "exam_17.json",
+      "questionCount": 50
+    },
+    {
+      "set": 18,
+      "year": 2026,
+      "round": 18,
+      "title": "ADsP 기출 스타일 18회",
+      "file": "exam_18.json",
+      "questionCount": 50
+    },
+    {
+      "set": 19,
+      "year": 2026,
+      "round": 19,
+      "title": "ADsP 기출 스타일 19회",
+      "file": "exam_19.json",
+      "questionCount": 50
+    },
+    {
+      "set": 20,
+      "year": 2026,
+      "round": 20,
+      "title": "ADsP 기출 스타일 20회",
+      "file": "exam_20.json",
+      "questionCount": 50
+    },
+    {
+      "set": 21,
+      "year": 2026,
+      "round": 21,
+      "title": "ADsP 기출 스타일 21회",
+      "file": "exam_21.json",
+      "questionCount": 50
+    },
+    {
+      "set": 22,
+      "year": 2026,
+      "round": 22,
+      "title": "ADsP 기출 스타일 22회",
+      "file": "exam_22.json",
+      "questionCount": 50
+    },
+    {
+      "set": 23,
+      "year": 2026,
+      "round": 23,
+      "title": "ADsP 기출 스타일 23회",
+      "file": "exam_23.json",
+      "questionCount": 50
+    },
+    {
+      "set": 24,
+      "year": 2026,
+      "round": 24,
+      "title": "ADsP 기출 스타일 24회",
+      "file": "exam_24.json",
+      "questionCount": 50
+    },
+    {
+      "set": 25,
+      "year": 2026,
+      "round": 25,
+      "title": "ADsP 기출 스타일 25회",
+      "file": "exam_25.json",
+      "questionCount": 50
+    },
+    {
+      "set": 26,
+      "year": 2026,
+      "round": 26,
+      "title": "ADsP 기출 스타일 26회",
+      "file": "exam_26.json",
+      "questionCount": 50
+    },
+    {
+      "set": 27,
+      "year": 2026,
+      "round": 27,
+      "title": "ADsP 기출 스타일 27회",
+      "file": "exam_27.json",
+      "questionCount": 50
+    },
+    {
+      "set": 28,
+      "year": 2026,
+      "round": 28,
+      "title": "ADsP 기출 스타일 28회",
+      "file": "exam_28.json",
+      "questionCount": 50
+    },
+    {
+      "set": 29,
+      "year": 2026,
+      "round": 29,
+      "title": "ADsP 기출 스타일 29회",
+      "file": "exam_29.json",
+      "questionCount": 50
+    },
+    {
+      "set": 30,
+      "year": 2026,
+      "round": 30,
+      "title": "ADsP 기출 스타일 30회",
+      "file": "exam_30.json",
+      "questionCount": 50
+    },
+    {
+      "set": 31,
+      "year": 2026,
+      "round": 31,
+      "title": "ADsP 기출 스타일 31회",
+      "file": "exam_31.json",
+      "questionCount": 50
+    },
+    {
+      "set": 32,
+      "year": 2026,
+      "round": 32,
+      "title": "ADsP 기출 스타일 32회",
+      "file": "exam_32.json",
+      "questionCount": 50
+    },
+    {
+      "set": 33,
+      "year": 2026,
+      "round": 33,
+      "title": "ADsP 기출 스타일 33회",
+      "file": "exam_33.json",
+      "questionCount": 50
+    },
+    {
+      "set": 34,
+      "year": 2026,
+      "round": 34,
+      "title": "ADsP 기출 스타일 34회",
+      "file": "exam_34.json",
+      "questionCount": 50
+    },
+    {
+      "set": 35,
+      "year": 2026,
+      "round": 35,
+      "title": "ADsP 기출 스타일 35회",
+      "file": "exam_35.json",
+      "questionCount": 50
+    },
+    {
+      "set": 36,
+      "year": 2026,
+      "round": 36,
+      "title": "ADsP 기출 스타일 36회",
+      "file": "exam_36.json",
+      "questionCount": 50
+    }
+  ]
+}
