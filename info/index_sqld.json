@@ -8,6 +8,10 @@
 ,{"set": 3,"year": 2026,"round": 3,"title": "기출문제 3","file": "exam_3.json","questionCount": 50}
 ,{"set": 4,"year": 2026,"round": 4,"title": "기출문제 4","file": "exam_4.json","questionCount": 50}
 ,{"set": 5,"year": 2026,"round": 5,"title": "기출문제 5","file": "exam_5.json","questionCount": 50}
+,{"set": 101,"year": 2026,"round": 101,"title": "SQL활용 101","file": "exam_101.json","questionCount": 50}
+,{"set": 102,"year": 2026,"round": 102,"title": "SQL활용 102","file": "exam_102.json","questionCount": 50}
+,{"set": 201,"year": 2026,"round": 201,"title": "기출문제 201","file": "exam_201.json","questionCount": 50}
+,{"set": 202,"year": 2026,"round": 202,"title": "기출문제 202","file": "exam_202.json","questionCount": 50}
 ,{"set": 6,"year": 2026,"round": 6,"title": "기출문제 6","file": "exam_6.json","questionCount": 50}
 ,{"set": 7,"year": 2026,"round": 7,"title": "기출문제 7","file": "exam_7.json","questionCount": 50}
 ,{"set": 8,"year": 2026,"round": 8,"title": "기출문제 8","file": "exam_8.json","questionCount": 50}
@@ -35,8 +39,6 @@
 ,{"set": 30,"year": 2026,"round": 30,"title": "기출문제 30","file": "exam_30.json","questionCount": 50}
 ,{"set": 31,"year": 2026,"round": 31,"title": "기출문제 31","file": "exam_31.json","questionCount": 50}
 ,{"set": 32,"year": 2026,"round": 32,"title": "기출문제 32","file": "exam_32.json","questionCount": 50}
-,{"set": 101,"year": 2026,"round": 101,"title": "SQL활용 101","file": "exam_101.json","questionCount": 50}
-,{"set": 102,"year": 2026,"round": 102,"title": "SQL활용 102","file": "exam_102.json","questionCount": 50}
 ,{"set": 103,"year": 2026,"round": 103,"title": "SQL활용 103","file": "exam_103.json","questionCount": 50}
 ,{"set": 104,"year": 2026,"round": 104,"title": "SQL활용 104","file": "exam_104.json","questionCount": 50}
 ,{"set": 105,"year": 2026,"round": 105,"title": "SQL활용 105","file": "exam_105.json","questionCount": 50}
@@ -70,8 +72,6 @@
 ,{"set": 133,"year": 2026,"round": 133,"title": "SQL활용 133","file": "exam_133.json","questionCount": 50}
 ,{"set": 134,"year": 2026,"round": 134,"title": "SQL활용 134","file": "exam_134.json","questionCount": 50}
 ,{"set": 135,"year": 2026,"round": 135,"title": "SQL활용 135","file": "exam_135.json","questionCount": 50}
-  ,{"set": 201,"year": 2026,"round": 201,"title": "기출문제 201","file": "exam_201.json","questionCount": 50}
-  ,{"set": 202,"year": 2026,"round": 202,"title": "기출문제 202","file": "exam_202.json","questionCount": 50}
   ,{"set": 203,"year": 2026,"round": 203,"title": "기출문제 203","file": "exam_203.json","questionCount": 50}
   ,{"set": 204,"year": 2026,"round": 204,"title": "기출문제 204","file": "exam_204.json","questionCount": 50}
   ,{"set": 205,"year": 2026,"round": 205,"title": "기출문제 205","file": "exam_205.json","questionCount": 50}
